@@ -1,9 +1,6 @@
 const reasons = [
-  "I love you🥰🥰",
-  "I love you🎀🎀",
-  "I love you❤❤",
-  "I love you🌹🌹",
-  "I love you💘💘",
+  "HAPPY BIRTHDAY STRONG GUY🗿",
+  "HAPPY BIRTHDAY BEST FATHER EVER🔥⭐",
 ];
 
 const list = document.getElementById("reasons-list");
